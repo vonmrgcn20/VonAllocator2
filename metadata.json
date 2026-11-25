@@ -1,0 +1,6 @@
+{
+  "name": "Von Allocator",
+  "description": "Budget Allocation for Vhon — Weekly budget planner, priority debts, categorized To Buy checklist with cross-list drag-and-drop, goals, and Firebase Live sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
